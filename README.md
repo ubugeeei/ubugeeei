@@ -3,3 +3,5 @@
 # Hi there :wave:
 -  :pencil: I'm a college student now.
 -  :muscle: I just started studying programming.
+-  :mag: What I'm studying now
+  - HTML, CSS, Pug, Sass, JavaScript, TypeScript, Vue, Nuxt, Firebase
