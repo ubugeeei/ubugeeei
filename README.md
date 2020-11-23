@@ -6,4 +6,4 @@
 -  :mag: What I'm studying now ----- HTML, CSS, Pug, Sass, JavaScript, TypeScript, Vue, Nuxt, Firebase
 - :hourglass_flowing_sand:What I want to study in the future　----- Node.js, Express, React, Next, AWS, Python
 - :guitar:I play the guitar as a hobby. Also plays the drums
-- Love :saxophone:jazz
+-  :saxophone:Love jazz
