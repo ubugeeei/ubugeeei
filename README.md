@@ -14,3 +14,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubugeeei&layout=compact)](https://github.com/ubugeeei/github-readme-stats)
+[![](https://raw.githubusercontent.com/ubugeeei/ubugeeei/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
