@@ -9,4 +9,4 @@
 -  :saxophone:Love jazz
 <img src="https://grass-graph.moshimo.works/images/Ubugeeei.png">
 
-![Ubugeeei's github stats](https://github-readme-stats.vercel.app/api?username=ubugeeei)
+![readme](https://github-readme-stats.vercel.app/api?username=ubugeeei)
