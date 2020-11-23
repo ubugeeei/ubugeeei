@@ -8,3 +8,4 @@
 - :guitar:I play the guitar as a hobby. Also plays the drums
 -  :saxophone:Love jazz
 <img src="https://grass-graph.moshimo.works/images/Ubugeeei.png">
+![Ubugeeei's github stats](https://github-readme-stats.vercel.app/api?username=ubugeeei)
