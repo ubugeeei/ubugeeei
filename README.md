@@ -7,4 +7,3 @@
 - :hourglass_flowing_sand: What I want to study in the future　----- Node.js, Express, React, Next, AWS, Python
 - :guitar:I play the guitar as a hobby. Also plays the drums
 -  :saxophone:Love jazz
-<img src="https://grass-graph.moshimo.works/images/Ubugeeei.png">
