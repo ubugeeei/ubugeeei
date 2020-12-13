@@ -16,12 +16,4 @@
 - :guitar:I play the guitar as a hobby. Also plays the drums
 -  :saxophone:Love jazz
 # Languages and tools
-<img src="https://cdn.svgporn.com/logos/html-5.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/css-3.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/sass.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/pug.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/vue.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" width="50px">
-<img src="https://cdn.svgporn.com/logos/python.svg" width="50px">
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/css-3.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/sass.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/pug.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/vue.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" width="50px"> <img src="https://cdn.svgporn.com/logos/python.svg" width="50px">
