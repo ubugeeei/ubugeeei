@@ -17,3 +17,4 @@
 -  :saxophone:Love jazz
 # Languages and tools
 ![html](https://cdn.svgporn.com/logos/html-5.svg)
+<img src="https://cdn.svgporn.com/logos/html-5.svg" width="50px">
