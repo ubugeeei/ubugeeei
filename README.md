@@ -1,4 +1,4 @@
-# Hi I'm Koji :wave:
+# Hi :wave: I'm Koji 
 ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/491.gif)
 ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/493.gif)
 ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif)
