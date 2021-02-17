@@ -10,9 +10,15 @@
 ![readme](https://user-images.githubusercontent.com/71201308/99968993-3844fe00-2ddd-11eb-90c0-972f25ad58ce.png)
 # About 
 -  :pencil: I'm a college student now.
--  :muscle: I just started studying programming.
--  :mag: What I'm studying now ----- HTML, CSS, Pug, Sass, JavaScript, TypeScript, Vue, Nuxt, React,Python, MySQL, Gql, Firebase, appSync
-- :hourglass_flowing_sand: What I want to study in the future　----- Node.js, Express, Next, AWS, 
+-  :muscle: I just started studying programming.  
+  
+-  :mag: What I'm studying now:  
+        HTML, CSS, Pug, Sass, JavaScript, TypeScript,
+        Vue, Nuxt, React, Python, Django, MySQL, Gql, Firebase, appSync, GAS, Docker
+- :hourglass_flowing_sand: What I want to study in the future:  
+Node.js, Express, Next, AWS, Go, Rust, ArtificialIntelligence  
+  
+  
 - :guitar:I play the guitar as a hobby. Also plays the drums
 -  :saxophone:Love jazz
 # Languages and tools
