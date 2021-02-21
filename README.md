@@ -12,7 +12,7 @@
 <!--  ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif) -->
 <!--  ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/483.gif) -->
 <!--  ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/643.gif) -->
-<!--  ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/386.gif) -->
+![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/386.gif)
 ![readme](https://user-images.githubusercontent.com/71201308/99968993-3844fe00-2ddd-11eb-90c0-972f25ad58ce.png)
 # About 
 -  :pencil: I'm a college student now.
