@@ -68,10 +68,7 @@ fn main() {
 }
 
 ```
-  
-  
-- :guitar:　play the guitar as a hobby. Also plays the drums
--  :saxophone:　love jazz
+
 # Languages and tools
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40px">　<img src="https://cdn.svgporn.com/logos/rust.svg" width="40px">　<img src="https://cdn.svgporn.com/logos/python.svg" width="40px"> 　<img src="https://cdn.svgporn.com/logos/haskell-icon.svg" width="40px">
 
