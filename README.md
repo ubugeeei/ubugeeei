@@ -68,13 +68,6 @@ fn main() {
 }
 
 ```
-
-# About 
--  :pencil: 　college student now,  also frontend engineer. 2000s
--  :muscle: 　usually develops with Nuxt(composition-api), TypeScript  
-  
--  :mag: 　current studying:  
-        　  Rust, Wasm, Machine Learning, web backend
   
   
 - :guitar:　play the guitar as a hobby. Also plays the drums
