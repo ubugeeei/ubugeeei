@@ -5,6 +5,5 @@ fn main() {
 
 ```
 
-<!-- # Languages and tools -->
-<!-- <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="40px"> 　<img src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" width="40px">　 <img src="https://cdn.svgporn.com/logos/python.svg" width="40px">  <img src="https://cdn.svgporn.com/logos/vue.svg" width="40px">　 <img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" width="40px">　　<img src="https://cdn.svgporn.com/logos/react.svg" width="40px">　 <img src="https://cdn.svgporn.com/logos/aws.svg" width="60px">　　 -->
-<!-- <img src="https://cdn.svgporn.com/logos/graphql.svg" width="30px">   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubugeeei&layout=compact)](https://github.com/ubugeeei/github-readme-stats)
+
