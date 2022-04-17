@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://c.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif" width="400px"/>
+</p>
+
 ```ll
 @str = private unnamed_addr constant [14 x i8] c"Hi, I'm Ubugeeei!\00", align 1
 
