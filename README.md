@@ -24,7 +24,7 @@ On the personal development side, I play around with creating my own browsers an
 
 🛠️ Technologies used frequently at work:
     - HTML/CSS
-    - TypeSctiprt
+    - TypeScript
     - Vue/React
     - GarphQL
     - Nest, Prisma
