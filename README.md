@@ -23,12 +23,17 @@ On the personal development side, I play around with creating my own browsers an
 ----------------------------------------------------------------------------
 
 🛠️ Technologies used frequently at work:
-    - HTML/CSS
+    - HTML / CSS / Sass
     - TypeScript
-    - Vue/React
+    - Vue / Nuxt (SFC , Composition API, script setup, Pinia, Vuex, Volar)
+    - React (Hooks, Recoil, Native,)
+    - Jest
     - GarphQL
-    - Nest, Prisma
-    - AWS
+    - Nest, Prisma, MySQL
+    - AWS (Cognito / S3 / Cloud Front / Route53 / Lambda / Amplify / AppSync / Aurora Serverless)
+    - Sentry
+    - Git / GitLab
+    - GitLab CI
 
 🧐 Interest:  
     - Web Frontend
