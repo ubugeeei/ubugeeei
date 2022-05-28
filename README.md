@@ -13,10 +13,16 @@ entry:
 
 declare i32 @puts(i8* nocapture readonly) local_unnamed_addr #1
 ```
-  
-<p align="center">
- <img src="metrics.plugin.isocalendar.fullyear.svg" width="40%"/>
-<p>
+
+<div style="display: flex; justify-align: center;">
+<!--   <div> -->
+    <img src="metrics.plugin.topics.icons.svg"/>
+<!--   </div> -->
+<!--   <div> -->
+    <img src="metrics.plugin.isocalendar.fullyear.svg"/>
+<!--   </div> -->
+</div>
+
 
 ```
 Born in 2000 in Fukuoka, Japan 🇯🇵
