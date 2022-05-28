@@ -14,16 +14,6 @@ entry:
 declare i32 @puts(i8* nocapture readonly) local_unnamed_addr #1
 ```
 
-<div style="display: flex; justify-align: center;">
-<!--   <div> -->
-    <img src="metrics.plugin.topics.icons.svg"/>
-<!--   </div> -->
-<!--   <div> -->
-    <img src="metrics.plugin.isocalendar.fullyear.svg"/>
-<!--   </div> -->
-</div>
-
-
 ```
 Born in 2000 in Fukuoka, Japan 🇯🇵
 Working as a web engineer in Tokyo 🗼
@@ -57,3 +47,5 @@ On the personal development side, I play around with creating my own browsers an
     - Assembly, LLVM
     - Team Engineering/Management, Frontend Ops
 ```
+
+<img src="metrics.plugin.topics.icons.svg" width="100%"/>
