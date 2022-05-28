@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://c.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif" width="400px"/>
-</p>
+<div style="display: flex;">
+  <img src="https://c.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif" width="580px"/>
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="42%"/>
+</div>
 
 ```ll
 @str = private unnamed_addr constant [14 x i8] c"Hi, I'm Ubugeeei!\00", align 1
