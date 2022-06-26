@@ -25,16 +25,16 @@ On the personal development side, I play around with creating my own browsers an
 
 🛠️ Technologies used frequently at work:
     [frontend]
-    - TypeScript
-    - Vue / Nuxt / React
+      - TypeScript
+      - Vue / Nuxt / React
     [backend]
-    - GarphQL
-    - Nest, Prisma, MySQL
+      - GarphQL
+      - Nest, Prisma, MySQL
     [infrastructure / ops]
-    - AWS
-    - Sentry
-    - Git / GitLab
-    - GitLab CI
+      - AWS
+      - Sentry
+      - Git / GitLab
+      - GitLab CI
 
 🧐 Interest:  
     - Web Frontend
