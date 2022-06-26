@@ -47,5 +47,3 @@ On the personal development side, I play around with creating my own browsers an
     - Assembly, LLVM
     - Team Engineering/Management, Frontend Ops
 ```
-
-<img src="metrics.plugin.topics.icons.svg" width="100%"/>
