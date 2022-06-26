@@ -24,14 +24,14 @@ On the personal development side, I play around with creating my own browsers an
 ----------------------------------------------------------------------------
 
 🛠️ Technologies used frequently at work:
-    - HTML / CSS / Sass
+    [frontend]
     - TypeScript
-    - Vue / Nuxt (SFC , Composition API, script setup, Pinia, Vuex, Volar)
-    - React (Hooks, Recoil, Native,)
-    - Jest
+    - Vue / Nuxt / React
+    [backend]
     - GarphQL
     - Nest, Prisma, MySQL
-    - AWS (Cognito / S3 / Cloud Front / Route53 / Lambda / Amplify / AppSync / Aurora Serverless)
+    [infrastructure / ops]
+    - AWS
     - Sentry
     - Git / GitLab
     - GitLab CI
@@ -40,10 +40,10 @@ On the personal development side, I play around with creating my own browsers an
     - Web Frontend
     - UI/UX
     - Infrastructure system (OS, Web Browser, JS Runtime, etc...)  
-    - Computer Science 
+    - Computer Science
     - Rust
     - Haskell
-    - Lisp 
+    - Lisp
     - Assembly, LLVM
     - Team Engineering/Management, Frontend Ops
 ```
