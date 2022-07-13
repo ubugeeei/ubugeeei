@@ -18,7 +18,7 @@ declare i32 @puts(i8* nocapture readonly) local_unnamed_addr #1
 Born in 2000 in Fukuoka, Japan 🇯🇵
 Working as a web engineer in Tokyo 🗼
 
-I work for a startup company as an architect, project leader, team manager, and train members!
+I work for a startup company as an developer, architect, project leader, team manager!
 On the personal development side, I play around with creating my own browsers and operating systems :)
 
 ----------------------------------------------------------------------------
@@ -38,12 +38,10 @@ On the personal development side, I play around with creating my own browsers an
 
 🧐 Interest:  
     - Web Frontend
+    - Team Engineering/Management, Frontend Ops
     - UI/UX
-    - Infrastructure system (OS, Web Browser, JS Runtime, etc...)  
-    - Computer Science
+    - Infrastructure system (OS, Web Browser, JS Runtime, etc...)
     - Rust
     - Haskell
-    - Lisp
-    - Assembly, LLVM
-    - Team Engineering/Management, Frontend Ops
+    - Assembly(x86, RISC-V), LLVM
 ```
