@@ -16,11 +16,10 @@ declare i32 @puts(i8* nocapture readonly) local_unnamed_addr #1
 
 ```
 Born in 2000 in Fukuoka, Japan 🇯🇵
-Working as a web engineer in Tokyo 🗼
-
-I work for a startup company as an developer, architect, project leader, team manager!
-On the personal development side, I play around with creating my own browsers and operating systems :)
-
+Working as a solfware engineer in Tokyo 🗼 (web frontend tech lead and manager at startup company.)
+On the personal development side, interested in system programming (web browser, OS, language processor, etc...)
+My favorite programming language is Rust!
+  
 ----------------------------------------------------------------------------
 
 🛠️ Technologies used frequently at work:
@@ -28,7 +27,7 @@ On the personal development side, I play around with creating my own browsers an
       - TypeScript
       - Vue / Nuxt / React
     [backend]
-      - GarphQL
+      - GraphQL
       - Nest, Prisma, MySQL
     [infrastructure / ops]
       - AWS
@@ -40,7 +39,7 @@ On the personal development side, I play around with creating my own browsers an
     - Web Frontend
     - Team Engineering/Management, Frontend Ops
     - UI/UX
-    - Infrastructure system (OS, Web Browser, JS Runtime, etc...)
+    - System Programming (OS, Web Browser, JS Runtime, etc...)
     - Rust
     - Haskell
     - Assembly(x86, RISC-V), LLVM
