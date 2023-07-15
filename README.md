@@ -5,6 +5,8 @@
     <p>Profile, scraps and activity logs are listed in <a href="https://github.com/Ubugeeei/work-log/discussions">ubugeeei/work-log/discussions</a> .</p>
   </div>
 
+  <img src="https://i.redd.it/tsy10hp4ukq21.gif">
+
   <div class="links">
     <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/about-me">About Me</a>
     | <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/scraps">Scraps</a>
