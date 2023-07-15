@@ -2,7 +2,7 @@
   <h1> ubugeeei </h1>
 
   <div class="overview">
-    <p>スクラップや活動ログなどを <a href="https://github.com/Ubugeeei/work-log/discussions">ubugeeei/work-log/discussions</a> に記録しています。</p>
+    <p>Profile, scraps and activity logs are listed in <a href="https://github.com/Ubugeeei/work-log/discussions">ubugeeei/work-log/discussions</a> .</p>
   </div>
 
   <div class="links">
