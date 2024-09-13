@@ -1,15 +1,18 @@
 <div align="center">
-  <h1> ubugeeei </h1>
 
   <div class="overview">
-    <p>Profile, scraps and activity logs are listed in <a href="https://github.com/Ubugeeei/work-log/discussions">ubugeeei/work-log/discussions</a> .</p>
+    <p style="font-size: 24px">about me -> <a href="https://ublog.dev" target="_blank">ublog.dev</a></p>
   </div>
 
-  <img src="https://i.redd.it/tsy10hp4ukq21.gif">
 
-  <div class="links">
-    <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/about-me">About Me</a>
-    | <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/scraps">Scraps</a>
-    | <a class="btn btn-mod btn-border btn-large btn-round" href="https://github.com/Ubugeeei/work-log/discussions/categories/work-logs">Work logs</a>
-  </div>  
-</div>
+## Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/ubugeeei">
+    <img src="https://raw.githubusercontent.com/ubugeeei/sponsors/main/sponsors.png" alt="ubugeeei's sponsors" />
+  </a>
+</p>
+
+If you'd like to support my work, I would greatly appreciate it! 
+
+https://github.com/sponsors/ubugeeei
