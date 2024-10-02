@@ -1,10 +1,12 @@
 <div align="center">
-
+  <img src="https://github.com/user-attachments/assets/24935189-f17b-4b1f-8d15-dd9e740741fe" alt="duck" width="192px" />
+  
   <div class="overview">
-    <p style="font-size: 24px">about me -> <a href="https://ublog.dev" target="_blank">ublog.dev</a></p>
+    <p style="font-size: 32px"><a href="https://ublog.dev" target="_blank">ublog.dev</a></p>
   </div>
 
-
+---
+  
 ## Sponsors
 
 <p align="center">
