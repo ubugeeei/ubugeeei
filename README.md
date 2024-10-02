@@ -16,4 +16,4 @@ If you'd like to support my work, I would greatly appreciate it!
 https://github.com/sponsors/ubugeeei
 
 
-<img src="https://github.com/user-attachments/assets/24935189-f17b-4b1f-8d15-dd9e740741fe" alt="duck" width="512px" />
+<img src="https://github.com/user-attachments/assets/24935189-f17b-4b1f-8d15-dd9e740741fe" alt="duck" width="256px" />
