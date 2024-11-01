@@ -1,11 +1,14 @@
 <div align="center">
   
   <h2>ubugeeei</h2>
-  <img src="https://github.com/user-attachments/assets/24935189-f17b-4b1f-8d15-dd9e740741fe" alt="duck" width="128px" />
   <p style="font-size: 32px"><a href="https://ublog.dev" target="_blank">ublog.dev</a></p>
   <p>🇯🇵🗼 software engineer / 禅 / サムライ 🥷</p>
-  <p>@vuejs, @vuejs-jp member</p>
-  <p>work at Mates Inc.</p>
+  <p>
+    member of <a href="https://github.com/vuejs">@vuejs</a>, <a href="https://github.com/vuejs-jp">@vuejs-jp</a><br>
+    owner of <a href="https://github.com/chibivue-land">@chibivue-land</a><br>
+    working at <a href="https://github.com/mates-system" target="_blank">@mates-system</a>
+  </p>  
+  
   
   
 ## Sponsors
