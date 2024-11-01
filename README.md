@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/ubugeeei">
-    <img src="https://raw.githubusercontent.com/ubugeeei/sponsors/main/sponsors.png" alt="ubugeeei's sponsors" width="416px" />
+    <img src="https://raw.githubusercontent.com/ubugeeei/sponsors/main/sponsors.png" alt="ubugeeei's sponsors" width="320px" />
   </a>
 </p>
 
