@@ -1,7 +1,6 @@
 <div align="center">  
   <h2>ubugeeei</h2>
-  <p style="font-size: 32px"><a href="https://ublog.dev" target="_blank">ublog.dev</a></p>
-  <p>🇯🇵🗼 software engineer / 禅 / サムライ 🥷</p>
+  <p>🇯🇵🗼 software engineer / 🦀彡..｡o うに，禅/サムライ 🥷</p>
   <p>
     member of <a href="https://github.com/vuejs">@vuejs</a>, <a href="https://github.com/vuejs-jp">@vuejs-jp</a><br>
     king of <a href="https://github.com/chibivue-land">@chibivue-land</a><br>
