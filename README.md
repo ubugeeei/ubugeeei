@@ -16,9 +16,10 @@ try it.
 npx ubugeeei
 ```
 
----
+<div align="center">
+
+Please sponsoring me...
 
 <img src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true" width="500">
 
-please sponsoring me!
-
+</div>
