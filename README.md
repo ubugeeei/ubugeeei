@@ -11,6 +11,11 @@ creator of <a href="https://github.com/chibivue-land/chibivue" target="_blank">c
   
 writing:  <a href="https://wtrclred.io" target="_blank">wtrclred.io</a> (blog), <a href="https://github.com/ubugeei/reading-vuejs-core-vapor" target="_blank">reading-vuejs-core-vapor</a>,
 
+try it.
+```shell
+npx ubugeeei
+```
+
 ---
 
 <img src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true" width="500">
