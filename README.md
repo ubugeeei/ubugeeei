@@ -13,8 +13,7 @@ writing:  <a href="https://wtrclred.io" target="_blank">wtrclred.io</a> (blog), 
 
 ---
 
-My Sponsors 💚\
-<img src="https://raw.githubusercontent.com/ubugeeei/sponsors/main/sponsors.png" width="320">
+<img src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true" width="500">
 
 please sponsoring me!
 
