@@ -1,0 +1,52 @@
+{
+  "name": "ubugeeei",
+  "version": "2.0.0",
+  "description": "Hi! I'm ubugeeei, Vue.js team member, author of chibivue and vize",
+  "keywords": [
+    "card",
+    "chibivue",
+    "cli",
+    "npx",
+    "vue"
+  ],
+  "homepage": "https://wtrclred.io",
+  "bugs": {
+    "url": "https://github.com/ubugeeei/ubugeeei/issues"
+  },
+  "license": "MIT",
+  "author": "ubugeeei",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubugeeei/ubugeeei.git"
+  },
+  "funding": "https://github.com/sponsors/ubugeeei",
+  "bin": {
+    "ubugeeei": "dist/cli.mjs"
+  },
+  "files": [
+    "assets",
+    "dist"
+  ],
+  "type": "module",
+  "scripts": {
+    "build": "bun run check && tsdown bin/cli.ts --outDir dist --platform node",
+    "dev": "bun run bin/cli.ts",
+    "check": "tsgo --noEmit",
+    "lint": "oxlint --type-aware",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt ."
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.0",
+    "@typescript/native-preview": "^7.0.0-dev",
+    "oxfmt": "^0.26.0",
+    "oxlint": "^1.41.0",
+    "oxlint-tsgolint": "^0.11.1",
+    "tsdown": "^0.20.1",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "packageManager": "bun@1.2.18"
+}
