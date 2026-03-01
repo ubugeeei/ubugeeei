@@ -9,7 +9,7 @@ working at <a href="https://github.com/mates-system" target="_blank">@mates-syst
 
 creator of <a href="https://github.com/chibivue-land/chibivue" target="_blank">chibivue</a>, <a href="https://github.com/ubugeeei/vize" target="_blank">vize</a>, <a href="https://github.com/ubugeeei/ox-content" target="_blank">ox-content</a>, <a href="https://github.com/ubugeeei/relanote" target="_blank">relanote</a><br>
 
-writing: <a href="https://wtrclred.io" target="_blank">wtrclred.io</a> (blog), <a href="https://github.com/ubugeei/reading-vuejs-core-vapor" target="_blank">reading-vuejs-core-vapor</a>,
+writing: <a href="https://wtrclred.io" target="_blank">wtrclred.io</a> (blog), <a href="https://github.com/ubugeeei/reading-vuejs-core-vapor" target="_blank">reading-vuejs-core-vapor</a>,
 
 try it.
 
