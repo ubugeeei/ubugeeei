@@ -1,7 +1,7 @@
 <h2>ubugeeei</h2>
 <p>🇯🇵🗼 software engineer / 🦀彡..｡o うに，禅/サムライ 🥷</p>
 
-member of <a href="https://github.com/vuejs">@vuejs</a> (Official), <a href="https://github.com/vuejs-jp">@vuejs-jp</a> (Vue Fes Japan)<br>
+core team member of <a href="https://github.com/vuejs">@vuejs</a> (Official), core staff of <a href="https://github.com/vuejs-jp">@vuejs-jp</a> (Vue Fes Japan)<br>
 
 king of <a href="https://github.com/chibivue-land">@chibivue-land</a><br>
 
