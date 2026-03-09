@@ -7,7 +7,7 @@ king of <a href="https://github.com/chibivue-land">@chibivue-land</a><br>
 
 working at <a href="https://github.com/mates-system" target="_blank">@mates-system</a><br>
 
-creator of <a href="https://github.com/chibivue-land/chibivue" target="_blank">chibivue</a>, <a href="https://github.com/ubugeeei/vize" target="_blank">vize</a>, <a href="https://github.com/ubugeeei/ox-content" target="_blank">ox-content</a>, <a href="https://github.com/ubugeeei/relanote" target="_blank">relanote</a><br>
+creator of <a href="https://github.com/chibivue-land/chibivue" target="_blank">chibivue</a>, <a href="https://github.com/ubugeeei/vize" target="_blank">vize</a>, <a href="https://github.com/ubugeeei/ox-content" target="_blank">ox-content</a>, <a href="https://github.com/ubugeeei/fwgsl" target="_blank">fwgsl</a>, <a href="https://github.com/ubugeeei/relanote" target="_blank">relanote</a>, <a href="https://github.com/ubugeeei/registry.pkl" target="_blank">registry.pkl</a>
 
 writing: <a href="https://wtrclred.io" target="_blank">wtrclred.io</a> (blog), <a href="https://github.com/ubugeeei/reading-vuejs-core-vapor" target="_blank">reading-vuejs-core-vapor</a>,
 
