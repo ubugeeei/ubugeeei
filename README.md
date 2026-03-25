@@ -5,7 +5,7 @@ core team member of <a href="https://github.com/vuejs">@vuejs</a> (Official), co
 
 king of <a href="https://github.com/chibivue-land">@chibivue-land</a><br>
 
-working at <a href="https://github.com/mates-system" target="_blank">@mates-system</a><br>
+working at <a href="https://github.com/mates-inc" target="_blank">@mates-inc</a><br>
 
 creator of <a href="https://github.com/chibivue-land/chibivue" target="_blank">chibivue</a>, <a href="https://github.com/ubugeeei/vize" target="_blank">vize</a>, <a href="https://github.com/ubugeeei/ox-content" target="_blank">ox-content</a>, <a href="https://github.com/ubugeeei/fwgsl" target="_blank">fwgsl</a>, <a href="https://github.com/ubugeeei/relanote" target="_blank">relanote</a>, <a href="https://github.com/ubugeeei/registry.pkl" target="_blank">registry.pkl</a>
 
