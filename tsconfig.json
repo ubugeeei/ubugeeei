@@ -9,8 +9,8 @@
     "forceConsistentCasingInFileNames": true,
     "declaration": false,
     "noEmit": true,
-    "types": ["bun"]
+    "types": ["node"]
   },
-  "include": ["bin/**/*.ts"],
+  "include": ["bin/**/*.ts", "vite.config.ts"],
   "exclude": ["node_modules", "dist"]
 }

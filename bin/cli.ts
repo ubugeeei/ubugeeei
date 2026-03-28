@@ -60,26 +60,38 @@ const messages = {
     nickname: "もののけ王",
     tagline: "うにをくらえ",
     uni: "🦀彡..。o",
-    interests: "Jazz, Art, Compiler, Vue",
+    interests: [
+      "Web Frontend, Vue, Rust, Design",
+      "Art, Performance Tuning, Engineering Philosophy",
+      "Programming Languages, Language Implementations",
+      "OSS, Jazz, Twitter",
+    ],
     memberOf: "Member of",
-    author: "Author of",
+    creator: "Creator of",
     kingOf: "King of",
     chiefEngineerOf: "Chief Engineer of",
     contribute: "Contribute",
     blog: "Blog",
+    selectedPosts: "Selected Posts",
   },
   ja: {
     name: "ubugeeei",
     nickname: "もののけ王",
     tagline: "うにをくらえ",
     uni: "🦀彡..。o",
-    interests: "Jazz, Art, Compiler, Vue",
+    interests: [
+      "Web Frontend, Vue, Rust, Design",
+      "Art, Performance Tuning, Engineering Philosophy",
+      "Programming Languages, Language Implementations",
+      "OSS, Jazz, Twitter",
+    ],
     memberOf: "Member of",
-    author: "Author of",
+    creator: "Creator of",
     kingOf: "King of",
     chiefEngineerOf: "Chief Engineer of",
     contribute: "Contribute",
     blog: "Blog",
+    selectedPosts: "Selected Posts",
   },
 };
 
@@ -97,18 +109,71 @@ function detectLocale(): "en" | "ja" {
 }
 
 const projects = [
-  { name: "chibivue", url: "https://github.com/chibivue-land/chibivue" },
+  {
+    name: "chibivue",
+    url: "https://github.com/chibivue-land/chibivue",
+    description:
+      "A minimal Vue.js implementation and online book for learning Vue.js step by step.",
+  },
+  {
+    name: "vize",
+    url: "https://github.com/ubugeeei/vize",
+    description:
+      "Compiler, linter, typechecker, formatter, story system, and lsp for Vue.js in Rust.",
+  },
+  {
+    name: "ox-content",
+    url: "https://github.com/ubugeeei/ox-content",
+    description:
+      "Framework-agnostic documentation tooling with a high-performance Markdown parser in Rust.",
+  },
+  {
+    name: "ubugeeei/start",
+    url: "https://github.com/ubugeeei/start",
+    description: "Opinionated defaults and engineering rules for AI-assisted project creation.",
+  },
+  {
+    name: "style-guide.vue",
+    url: "https://github.com/ubugeeei/style-guide.vue",
+    description: "My personal Vue style guide and engineering preferences.",
+  },
   {
     name: "reading-vuejs-core-vapor",
     url: "https://github.com/ubugeeei/reading-vuejs-core-vapor",
+    description: "A book for reading and understanding the Vue Vapor implementation.",
   },
-  { name: "vize", url: "https://github.com/ubugeeei/vize" },
-  { name: "ox-content", url: "https://github.com/ubugeeei/ox-content" },
-  { name: "relanote", url: "https://github.com/ubugeeei/relanote" },
-  { name: "learn.nuxt.com (ja)", url: "https://github.com/nuxt/learn.nuxt.com" },
   {
-    name: "jp-vue-companies",
-    url: "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    name: "fwgsl",
+    url: "https://github.com/ubugeeei/fwgsl",
+    description: "A pure functional language for WebGPU that compiles to WGSL.",
+  },
+  {
+    name: "relanote",
+    url: "https://github.com/ubugeeei/relanote",
+    description: "A music programming language based on relative intervals.",
+  },
+  {
+    name: "vapor-moon",
+    url: "https://github.com/ubugeeei/vapor-moon",
+    description:
+      "A MoonBit-first SFC toolchain with Vue-like authoring and direct DOM / SSR output.",
+  },
+  {
+    name: "mbt-on-rails",
+    url: "https://github.com/ubugeeei/mbt-on-rails",
+    description: "A MoonBit-first, Rails-inspired framework skeleton.",
+  },
+];
+
+const blogPosts = [
+  { title: "React is React, just.", url: "https://wtrclred.io/en/posts/01" },
+  { title: "React is React, just. Part 2", url: "https://wtrclred.io/en/posts/08" },
+  { title: "What is Vue.js? It's just a language lol", url: "https://wtrclred.io/en/posts/05" },
+  { title: "Vue.js is not Easy. It is Approachable.", url: "https://wtrclred.io/en/posts/06" },
+  { title: "Characterize Vue.js", url: "https://wtrclred.io/en/posts/07" },
+  {
+    title: "Signals and Signals. And Retained UI.",
+    url: "https://wtrclred.io/en/posts/12",
   },
 ];
 
@@ -162,14 +227,63 @@ function createSeparator(): string {
   return `${COLORS.border}├${"─".repeat(WIDTH - 2)}┤${RESET}`;
 }
 
+function wrapText(text: string, maxWidth: number): string[] {
+  const words = text.split(" ");
+  const lines: string[] = [];
+  let current = "";
+
+  for (const word of words) {
+    const candidate = current ? `${current} ${word}` : word;
+    if (getDisplayWidth(candidate) <= maxWidth) {
+      current = candidate;
+      continue;
+    }
+
+    if (current) {
+      lines.push(current);
+    }
+
+    if (getDisplayWidth(word) <= maxWidth) {
+      current = word;
+      continue;
+    }
+
+    let chunk = "";
+    for (const char of word) {
+      const chunkCandidate = chunk + char;
+      if (getDisplayWidth(chunkCandidate) <= maxWidth) {
+        chunk = chunkCandidate;
+      } else {
+        if (chunk) {
+          lines.push(chunk);
+        }
+        chunk = char;
+      }
+    }
+    current = chunk;
+  }
+
+  if (current) {
+    lines.push(current);
+  }
+
+  return lines;
+}
+
 function main() {
   const t = messages[detectLocale()];
 
   const topBorder = `${COLORS.border}╭${"─".repeat(WIDTH - 2)}╮${RESET}`;
   const bottomBorder = `${COLORS.border}╰${"─".repeat(WIDTH - 2)}╯${RESET}`;
 
-  const projectLinks = projects.map((p) => link(p.url, COLORS.cyan + p.name + RESET));
+  const projectLines = projects.flatMap((project) => [
+    createLine(`  - ${link(project.url, COLORS.cyan + project.name + RESET)}`),
+    ...wrapText(project.description, INNER_WIDTH - 4).map((line) =>
+      createLine(`    ${DIM}${COLORS.gray}${line}${RESET}`),
+    ),
+  ]);
   const contributeLinks = contributes.map((p) => link(p.url, COLORS.purple + p.name + RESET));
+  const blogPostLinks = blogPosts.map((post) => link(post.url, COLORS.cyan + post.title + RESET));
 
   const lines = [
     "",
@@ -177,9 +291,12 @@ function main() {
     createEmptyLine(),
     createLine(`${BOLD}${gradientText(t.name)}${RESET}  ${COLORS.gray}${t.nickname}${RESET}`),
     createLine(`${COLORS.orange}${t.tagline}${RESET}  ${t.uni}`),
-    createLine(`${DIM}${COLORS.gray}${t.interests}${RESET}`),
+    ...t.interests.map((interestLine) => createLine(`${DIM}${COLORS.gray}${interestLine}${RESET}`)),
     createEmptyLine(),
     createSeparator(),
+    createEmptyLine(),
+    createLine(`${COLORS.vue}✦${RESET} ${COLORS.white}${t.creator}${RESET}`),
+    ...projectLines,
     createEmptyLine(),
     createLine(`${COLORS.yellow}★${RESET} ${COLORS.white}${t.memberOf}${RESET}`),
     createLine(
@@ -194,19 +311,18 @@ function main() {
       `  ${link("https://github.com/mates-system", COLORS.cyan + "@mates-system" + RESET)}`,
     ),
     createEmptyLine(),
-    createSeparator(),
-    createEmptyLine(),
-    createLine(`${COLORS.vue}✦${RESET} ${COLORS.white}${t.author}${RESET}`),
-    createLine(`  ${projectLinks.slice(0, 2).join(", ")}`),
-    createLine(`  ${projectLinks.slice(2, 4).join(", ")}`),
-    createLine(`  ${projectLinks.slice(4, 6).join(", ")}`),
-    createLine(`  ${projectLinks.slice(6).join(", ")}`),
-    createEmptyLine(),
     createLine(`${COLORS.purple}◈${RESET} ${COLORS.white}${t.contribute}${RESET}`),
     createLine(`  ${contributeLinks.join(", ")}`),
     createEmptyLine(),
     createLine(`${COLORS.cyan}✎${RESET} ${COLORS.white}${t.blog}${RESET}`),
     createLine(`  ${link("https://wtrclred.io", COLORS.cyan + "wtrclred.io" + RESET)}`),
+    createLine(`  ${COLORS.gray}${t.selectedPosts}${RESET}`),
+    createLine(`  - ${blogPostLinks[0]}`),
+    createLine(`  - ${blogPostLinks[1]}`),
+    createLine(`  - ${blogPostLinks[2]}`),
+    createLine(`  - ${blogPostLinks[3]}`),
+    createLine(`  - ${blogPostLinks[4]}`),
+    createLine(`  - ${blogPostLinks[5]}`),
     createEmptyLine(),
     createSeparator(),
     createEmptyLine(),

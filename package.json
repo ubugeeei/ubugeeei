@@ -29,24 +29,21 @@
   ],
   "type": "module",
   "scripts": {
-    "build": "bun run check && tsdown bin/cli.ts --outDir dist --platform node",
-    "dev": "bun run bin/cli.ts",
-    "check": "tsgo --noEmit",
-    "lint": "oxlint --type-aware",
-    "fmt": "oxfmt",
-    "fmt:check": "oxfmt ."
+    "build": "vp pack",
+    "dev": "vp pack --watch",
+    "start": "node dist/cli.mjs",
+    "check": "vp check",
+    "lint": "vp lint",
+    "fmt": "vp fmt",
+    "fmt:check": "vp fmt --check"
   },
   "devDependencies": {
-    "@types/bun": "^1.0.0",
-    "@typescript/native-preview": "^7.0.0-dev",
-    "oxfmt": "^0.26.0",
-    "oxlint": "^1.41.0",
-    "oxlint-tsgolint": "^0.11.1",
-    "tsdown": "^0.20.1",
-    "typescript": "^5.0.0"
+    "@types/node": "^24.0.0",
+    "typescript": "^5.0.0",
+    "vite-plus": "^0.1.14"
   },
   "engines": {
     "node": ">=24.0.0"
   },
-  "packageManager": "bun@1.2.18"
+  "packageManager": "pnpm@10.33.0"
 }
