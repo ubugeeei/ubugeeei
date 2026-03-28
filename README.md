@@ -1,3 +1,5 @@
+<img width="300" src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true">
+
 # UBUGEEEI(1)
 
 ## NAME
@@ -81,6 +83,3 @@ Tasks / recent work / PR requests
 - [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
 - [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website)
 
-## SUPPORT
-
-![Sponsors](https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true)
