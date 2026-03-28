@@ -24,18 +24,12 @@
     "ubugeeei": "dist/cli.mjs"
   },
   "files": [
-    "assets",
     "dist"
   ],
   "type": "module",
   "scripts": {
-    "build": "vp pack",
-    "dev": "vp pack --watch",
-    "start": "node dist/cli.mjs",
-    "check": "vp check",
-    "lint": "vp lint",
-    "fmt": "vp fmt",
-    "fmt:check": "vp fmt --check"
+    "dev": "node dist/cli.mjs",
+    "watch": "vp pack --watch"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",

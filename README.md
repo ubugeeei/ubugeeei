@@ -1,60 +1,86 @@
-<h2>ubugeeei</h2>
-<p>🇯🇵🗼 software engineer / 🦀彡..｡o うに，禅/サムライ 🥷</p>
-<p>love web frontend, Vue, Rust, design, art, performance tuning, engineering philosophy, programming languages, language implementations, OSS, Jazz, Twitter</p>
+# UBUGEEEI(1)
 
-creator of:
+## NAME
 
-- <a href="https://github.com/chibivue-land/chibivue" target="_blank">chibivue</a>: a minimal Vue.js implementation and online book for learning Vue.js step by step
-- <a href="https://github.com/ubugeeei/vize" target="_blank">vize</a>: compiler, linter, typechecker, formatter, story system, and lsp for Vue.js in Rust
-- <a href="https://github.com/ubugeeei/ox-content" target="_blank">ox-content</a>: framework-agnostic documentation tooling with a high-performance Markdown parser in Rust
-- <a href="https://github.com/ubugeeei/start" target="_blank">ubugeeei/start</a>: opinionated defaults and engineering rules for AI-assisted project creation
-- <a href="https://github.com/ubugeeei/style-guide.vue" target="_blank">style-guide.vue</a>: my personal Vue style guide and engineering preferences
-- <a href="https://github.com/ubugeeei/reading-vuejs-core-vapor" target="_blank">reading-vuejs-core-vapor</a>: a book for reading and understanding the Vue Vapor implementation
-- <a href="https://github.com/ubugeeei/fwgsl" target="_blank">fwgsl</a>: a pure functional language for WebGPU that compiles to WGSL
-- <a href="https://github.com/ubugeeei/relanote" target="_blank">relanote</a>: a music programming language based on relative intervals
-- <a href="https://github.com/ubugeeei/vapor-moon" target="_blank">vapor-moon</a>: a MoonBit-first SFC toolchain with Vue-like authoring and direct DOM / SSR output
-- <a href="https://github.com/ubugeeei/mbt-on-rails" target="_blank">mbt-on-rails</a>: a MoonBit-first, Rails-inspired framework skeleton
+`ubugeeei` - software engineer
 
-core team of <a href="https://github.com/vuejs">@vuejs</a> (Official)
+## SYNOPSIS
 
-core staff of <a href="https://github.com/vuejs-jp">@vuejs-jp</a> (Vue Fes Japan)<br>
+`npx ubugeeei`
 
-king of <a href="https://github.com/chibivue-land">@chibivue-land</a><br>
+## PROFILE
 
-working at <a href="https://github.com/mates-inc" target="_blank">@mates-inc</a><br>
+- もののけ王
+- うにをくらえ ✹ 🦀 🦆 彡..｡o
+- Tokyo 🇯🇵
+- 発言は全て現代アートだよ( ◠‿◠ )
 
-writing <a href="https://wtrclred.io" target="_blank">wtrclred.io</a> (blog)
+## ROLES
 
-selected posts:
+- [Vue.js](https://vuejs.org/about/team.html) Core Team
+- [Vue.js Japan User Group](https://github.com/vuejs-jp) Core Staff
+- [Vite+](https://github.com/voidzero-dev/vite-plus) Core Contributor
+- [株式会社メイツ](https://github.com/mates-inc) Chief Engineer
 
-- <a href="https://wtrclred.io/en/posts/01" target="_blank">React is React, just.</a>
-- <a href="https://wtrclred.io/en/posts/08" target="_blank">React is React, just. Part 2</a>
-- <a href="https://wtrclred.io/en/posts/05" target="_blank">What is Vue.js? It's just a language lol</a>
-- <a href="https://wtrclred.io/en/posts/06" target="_blank">Vue.js is not Easy. It is Approachable.</a>
-- <a href="https://wtrclred.io/en/posts/07" target="_blank">Characterize Vue.js</a>
-- <a href="https://wtrclred.io/en/posts/12" target="_blank">Signals and Signals. And Retained UI.</a>
+## INTERESTS
 
-contributing to:
+- Web Frontend, Vue, Design, Art, Rust, Performance Tuning
+- Programming Languages, Language Processors, OS and Browser Systems Programming
+- Engineering Philosophy, OSS, Jazz, Twitter
 
-- <a href="https://github.com/voidzero-dev/vite-plus" target="_blank">vite-plus</a>
-- <a href="https://github.com/voidzero-dev/vite-task" target="_blank">vite-task</a>
-- <a href="https://github.com/oxc-project/oxc" target="_blank">oxc</a>
+## TASK SURFACE
 
-ex:
+Tasks / recent work / PR requests
 
-- <a href="https://github.com/vuejs/vue-vapor" target="_blank">vue-vapor</a>
-- <a href="https://github.com/vuejs-jp/vuefes-2025-website" target="_blank">vuefes-2025-website</a>
+- vault: [taskgraph/public-vault](https://github.com/ubugeeei-taskgraph/public-vault)
 
-try it.
+## CREATOR OF
 
-```shell
-npx ubugeeei
-```
+- [chibivue](https://github.com/chibivue-land/chibivue): a minimal Vue.js implementation and online book for learning Vue.js step by step
+- [Vize](https://github.com/ubugeeei/vize): compiler, linter, typechecker, formatter, story system, and lsp for Vue.js in Rust
+- [Ox Content](https://github.com/ubugeeei/ox-content): framework-agnostic documentation tooling with a high-performance Markdown parser in Rust
+- [ubugeeei/start](https://github.com/ubugeeei/start): opinionated defaults and engineering rules for AI-assisted project creation
+- [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue): my personal Vue style guide and engineering preferences
+- [ubugeeei/origin](https://github.com/ubugeeei/origin): an opinionated personal macOS workstation configuration built with Nix, nix-darwin, and Home Manager
+- [ubugeeei-taskgraph](https://github.com/ubugeeei-taskgraph): a task management system with a public vault, shared config, and a PR-based request surface
+- [reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor): a book for reading and understanding the Vue Vapor implementation
+- [fwgsl](https://github.com/ubugeeei/fwgsl): a pure functional language for WebGPU that compiles to WGSL
+- [relanote](https://github.com/ubugeeei/relanote): a music programming language based on relative intervals
+- [Vapor Moon](https://github.com/ubugeeei/vapor-moon): a MoonBit-first SFC toolchain with Vue-like authoring and direct DOM / SSR output
+- [Mbt on Rails](https://github.com/ubugeeei/mbt-on-rails): a MoonBit-first, Rails-inspired framework skeleton
 
-<div align="center">
+## SELECTED POSTS
 
-Please sponsoring me...
+1. [Characterize Vue.js](https://wtrclred.io/en/posts/07)
+2. [React is React, just.](https://wtrclred.io/en/posts/01)
+3. [React is React, just. Part 2](https://wtrclred.io/en/posts/08)
+4. [What is Vue.js? It's just a language lol](https://wtrclred.io/en/posts/05)
+5. [Vue.js is not Easy. It is Approachable.](https://wtrclred.io/en/posts/06)
+6. [Signals and Signals. And Retained UI.](https://wtrclred.io/en/posts/12)
 
-<img src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true" width="500">
+## CONTRIBUTING TO
 
-</div>
+- [Vite+](https://github.com/voidzero-dev/vite-plus)
+- [vite-task](https://github.com/voidzero-dev/vite-task)
+- [oxc](https://github.com/oxc-project/oxc)
+
+## SPACES
+
+- king: [chibivue.land](https://chibivue.land)
+- blog: [wtrclred.io](https://wtrclred.io)
+
+## LINKS
+
+- github: [ubugeeei](https://github.com/ubugeeei)
+- twitter: [ubugeeei](https://x.com/ubugeeei)
+- discord: [ubugeeei](https://discord.com/users/ubugeeei)
+- sponsor: [sponsors/ubugeeei](https://github.com/sponsors/ubugeeei)
+
+## EX
+
+- [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
+- [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website)
+
+## SUPPORT
+
+![Sponsors](https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true)

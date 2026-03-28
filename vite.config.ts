@@ -8,7 +8,7 @@ export default defineConfig({
     },
   },
   pack: {
-    entry: "bin/cli.ts",
+    entry: "src/cli.ts",
     outDir: "dist",
     format: ["esm"],
     platform: "node",
