@@ -48,6 +48,7 @@ Tasks / recent work / PR requests
 - [relanote](https://github.com/ubugeeei/relanote): a music programming language based on relative intervals
 - [Vapor Moon](https://github.com/ubugeeei/vapor-moon): a MoonBit-first SFC toolchain with Vue-like authoring and direct DOM / SSR output
 - [Mbt on Rails](https://github.com/ubugeeei/mbt-on-rails): a MoonBit-first, Rails-inspired framework skeleton
+- [ush](https://github.com/ubugeeei/ush): an experimental Rust shell that stays POSIX-first and compiles `.ush` to portable `sh`
 
 ## SELECTED POSTS
 

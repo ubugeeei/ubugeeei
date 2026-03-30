@@ -155,6 +155,11 @@ export const projects: Project[] = [
     url: "https://github.com/ubugeeei/mbt-on-rails",
     description: "A MoonBit-first, Rails-inspired framework skeleton.",
   },
+  {
+    name: "ush",
+    url: "https://github.com/ubugeeei/ush",
+    description: "An experimental Rust shell that stays POSIX-first and compiles .ush to portable sh.",
+  },
 ];
 
 export const blogPosts: BlogPost[] = [
