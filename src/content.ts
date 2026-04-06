@@ -156,6 +156,18 @@ export const projects: Project[] = [
     description: "A MoonBit-first, Rails-inspired framework skeleton.",
   },
   {
+    name: "corsa-bind",
+    url: "https://github.com/ubugeeei/corsa-bind",
+    description:
+      "Rust and Node bindings plus orchestration layers for typescript-go over stdio.",
+  },
+  {
+    name: "tnix",
+    url: "https://github.com/ubugeeei/tnix",
+    description:
+      "A gradual type system and tooling stack for Nix that compiles .tnix to .nix.",
+  },
+  {
     name: "ush",
     url: "https://github.com/ubugeeei/ush",
     description: "An experimental Rust shell that stays POSIX-first and compiles .ush to portable sh.",
