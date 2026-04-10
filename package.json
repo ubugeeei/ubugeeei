@@ -28,7 +28,9 @@
   ],
   "type": "module",
   "scripts": {
+    "build": "vp pack",
     "dev": "node dist/cli.mjs",
+    "prepack": "pnpm run build",
     "watch": "vp pack --watch"
   },
   "devDependencies": {
