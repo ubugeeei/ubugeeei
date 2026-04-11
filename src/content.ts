@@ -162,6 +162,17 @@ export const projects: Project[] = [
       "Rust and Node bindings plus orchestration layers for typescript-go over stdio.",
   },
   {
+    name: "Hand-Writing SVG Generator",
+    url: "https://hand-writing-svg-generator.void.app/",
+    description: "Draw left, tune right, export when it feels right.",
+  },
+  {
+    name: "Shadorial",
+    url: "https://ubugeeei.github.io/shadorial/",
+    description:
+      "Learn shader programming interactively with 19 hands-on chapters covering GLSL, WebGL2, and Three.js.",
+  },
+  {
     name: "tnix",
     url: "https://github.com/ubugeeei/tnix",
     description:
