@@ -22,7 +22,7 @@
 - [Vue.js](https://vuejs.org/about/team.html) Core Team
 - [Vue.js Japan User Group](https://github.com/vuejs-jp) Core Staff
 - [Vite+](https://github.com/voidzero-dev/vite-plus) Core Contributor
-- [株式会社メイツ](https://github.com/mates-inc) Chief Engineer
+- [株式会社メイツ](https://github.com/mates-dev) Chief Engineer
 
 ## INTERESTS
 
@@ -87,4 +87,3 @@ Tasks / recent work / PR requests
 
 - [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
 - [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website)
-
