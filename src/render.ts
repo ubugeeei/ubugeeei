@@ -85,7 +85,7 @@ export function renderProfile(locale: Locale): string {
     `${INDENT}${link("https://vuejs.org/about/team.html", "Vue.js")} Core Team`,
     `${INDENT}${link("https://github.com/vuejs-jp", "Vue.js Japan User Group")} Core Staff`,
     `${INDENT}${link("https://github.com/voidzero-dev/vite-plus", "Vite+")} Core Contributor`,
-    `${INDENT}${link("https://github.com/mates-dev", "株式会社メイツ")} Chief Engineer`,
+    `${INDENT}${link("https://github.com/matesedu", "株式会社メイツ")} Chief Engineer`,
   ];
   const interestLines = wrapItems(t.interests, BODY_WIDTH, ", ").map((line) => `${INDENT}${line}`);
 
