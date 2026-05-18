@@ -22,7 +22,7 @@
 - [Vue.js](https://vuejs.org/about/team.html) Core Team
 - [Vue.js Japan User Group](https://github.com/vuejs-jp) Core Staff
 - [Vite+](https://github.com/voidzero-dev/vite-plus) Core Contributor
-- [株式会社メイツ](https://github.com/mates-dev) Chief Engineer
+- [株式会社メイツ](https://github.com/matesedu) Chief Engineer
 
 ## INTERESTS
 
