@@ -19,10 +19,10 @@
 
 ## ROLES
 
-- [Vue.js](https://vuejs.org/about/team.html) Core Team
-- [Vue.js Japan User Group](https://github.com/vuejs-jp) Core Staff
+- [Vue.js](https://vuejs.org/about/team.html) Core Team ([@vuejs](https://github.com/vuejs))
+- [Vue.js Japan User Group](https://github.com/vuejs-jp) Core Staff ([@vuejs-jp](https://github.com/vuejs-jp))
 - [Vite+](https://github.com/voidzero-dev/vite-plus) Core Contributor
-- [株式会社メイツ](https://github.com/matesedu) Chief Engineer
+- [株式会社メイツ](https://github.com/matesedu) Chief Engineer ([@matesedu](https://github.com/matesedu))
 
 ## INTERESTS
 
