@@ -1,4 +1,4 @@
-<img width="300" src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true">
+<img height="555" src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true">
 
 # UBUGEEEI(1)
 
