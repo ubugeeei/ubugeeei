@@ -83,24 +83,12 @@ Tasks / recent work / PR requests — vault:<br>[taskgraph/public-vault](https:/
 
 ## SELECTED POSTS
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 1. [Characterize Vue.js](https://wtrclred.io/en/posts/07)
 2. [React is React, just.](https://wtrclred.io/en/posts/01)
 3. [React is React, just. Part 2](https://wtrclred.io/en/posts/08)
-
-</td>
-<td valign="top" width="50%">
-
 4. [What is Vue.js? It's just a language lol](https://wtrclred.io/en/posts/05)
 5. [Vue.js is not Easy. It is Approachable.](https://wtrclred.io/en/posts/06)
 6. [Signals and Signals. And Retained UI.](https://wtrclred.io/en/posts/12)
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
