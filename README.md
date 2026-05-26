@@ -1,25 +1,10 @@
 <img height="320" src="https://github.com/ubugeeei/sponsors/blob/main/sponsors-transparent.png?raw=true">
 
-# UBUGEEEI(1)
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-## NAME
-
-`ubugeeei` - software engineer
-
-</td>
-<td valign="top" width="50%">
+# ubugeeei(1) - software engineer
 
 ## SYNOPSIS
 
 `npx ubugeeei`
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
