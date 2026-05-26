@@ -38,6 +38,10 @@ Tasks / recent work / PR requests
 
 ## CREATOR OF
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 - [chibivue](https://github.com/chibivue-land/chibivue): a minimal Vue.js implementation and online book for learning Vue.js step by step
 - [Vize](https://github.com/ubugeeei/vize): compiler, linter, typechecker, formatter, story system, and lsp for Vue.js in Rust
 - [Ox Content](https://github.com/ubugeeei/ox-content): framework-agnostic documentation tooling with a high-performance Markdown parser in Rust
@@ -47,6 +51,10 @@ Tasks / recent work / PR requests
 - [ubugeeei-taskgraph](https://github.com/ubugeeei-taskgraph): a task management system with a public vault, shared config, and a PR-based request surface
 - [reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor): a book for reading and understanding the Vue Vapor implementation
 - [fwgsl](https://github.com/ubugeeei/fwgsl): a pure functional language for WebGPU that compiles to WGSL
+
+</td>
+<td valign="top" width="50%">
+
 - [relanote](https://github.com/ubugeeei/relanote): a music programming language based on relative intervals
 - [Vapor Moon](https://github.com/ubugeeei/vapor-moon): a MoonBit-first SFC toolchain with Vue-like authoring and direct DOM / SSR output
 - [Mbt on Rails](https://github.com/ubugeeei/mbt-on-rails): a MoonBit-first, Rails-inspired framework skeleton
@@ -56,14 +64,30 @@ Tasks / recent work / PR requests
 - [tnix](https://github.com/ubugeeei/tnix): a gradual type system and tooling stack for Nix that compiles `.tnix` to `.nix`
 - [ush](https://github.com/ubugeeei/ush): an experimental Rust shell that stays POSIX-first and compiles `.ush` to portable `sh`
 
+</td>
+</tr>
+</table>
+
 ## SELECTED POSTS
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 1. [Characterize Vue.js](https://wtrclred.io/en/posts/07)
 2. [React is React, just.](https://wtrclred.io/en/posts/01)
 3. [React is React, just. Part 2](https://wtrclred.io/en/posts/08)
+
+</td>
+<td valign="top" width="50%">
+
 4. [What is Vue.js? It's just a language lol](https://wtrclred.io/en/posts/05)
 5. [Vue.js is not Easy. It is Approachable.](https://wtrclred.io/en/posts/06)
 6. [Signals and Signals. And Retained UI.](https://wtrclred.io/en/posts/12)
+
+</td>
+</tr>
+</table>
 
 ## CONTRIBUTING TO
 
