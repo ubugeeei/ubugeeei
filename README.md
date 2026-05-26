@@ -10,12 +10,19 @@
 
 `npx ubugeeei`
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## PROFILE
 
 - もののけ王
 - うにをくらえ ✹ 🦀 🦆 彡..｡o
 - Tokyo 🇯🇵
 - 発言は全て現代アートだよ( ◠‿◠ )
+
+</td>
+<td valign="top" width="50%">
 
 ## ROLES
 
@@ -24,17 +31,27 @@
 - [Vite+](https://github.com/voidzero-dev/vite-plus) Core Contributor
 - [株式会社メイツ](https://github.com/matesedu) Chief Engineer ([@matesedu](https://github.com/matesedu))
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 ## INTERESTS
 
 - Web Frontend, Vue, Design, Art, Rust, Performance Tuning
 - Programming Languages, Language Processors, OS and Browser Systems Programming
 - Engineering Philosophy, OSS, Jazz, Twitter
 
+</td>
+<td valign="top" width="50%">
+
 ## TASK SURFACE
 
-Tasks / recent work / PR requests
+Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://github.com/ubugeeei-taskgraph/public-vault)
 
-- vault: [taskgraph/public-vault](https://github.com/ubugeeei-taskgraph/public-vault)
+</td>
+</tr>
+</table>
 
 ## CREATOR OF
 
@@ -89,16 +106,9 @@ Tasks / recent work / PR requests
 </tr>
 </table>
 
-## CONTRIBUTING TO
-
-- [Vite+](https://github.com/voidzero-dev/vite-plus)
-- [vite-task](https://github.com/voidzero-dev/vite-task)
-- [oxc](https://github.com/oxc-project/oxc)
-
-## SPACES
-
-- king: [chibivue.land](https://chibivue.land)
-- blog: [wtrclred.io](https://wtrclred.io)
+<table>
+<tr>
+<td valign="top">
 
 ## LINKS
 
@@ -107,7 +117,31 @@ Tasks / recent work / PR requests
 - discord: [ubugeeei](https://discord.com/users/ubugeeei)
 - sponsor: [sponsors/ubugeeei](https://github.com/sponsors/ubugeeei)
 
+</td>
+<td valign="top">
+
+## SPACES
+
+- king: [chibivue.land](https://chibivue.land)
+- blog: [wtrclred.io](https://wtrclred.io)
+
+</td>
+<td valign="top">
+
+## CONTRIBUTING TO
+
+- [Vite+](https://github.com/voidzero-dev/vite-plus)
+- [vite-task](https://github.com/voidzero-dev/vite-task)
+- [oxc](https://github.com/oxc-project/oxc)
+
+</td>
+<td valign="top">
+
 ## EX
 
 - [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
 - [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website)
+
+</td>
+</tr>
+</table>
