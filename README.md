@@ -125,8 +125,8 @@ Tasks / recent work / PR requests — vault:<br>[taskgraph/public-vault](https:/
 
 ## EX
 
-- [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor)
-- [vuejs-jp/vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website)
+- [vue-vapor](https://github.com/vuejs/vue-vapor)
+- [vuefes-2025-website](https://github.com/vuejs-jp/vuefes-2025-website)
 
 </td>
 </tr>
