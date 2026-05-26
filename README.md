@@ -55,27 +55,27 @@ Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://gi
 <tr>
 <td valign="top" width="50%">
 
-- [chibivue](https://github.com/chibivue-land/chibivue): a minimal Vue.js implementation and online book for learning Vue.js step by step
-- [Vize](https://github.com/ubugeeei/vize): compiler, linter, typechecker, formatter, story system, and lsp for Vue.js in Rust
-- [Ox Content](https://github.com/ubugeeei/ox-content): framework-agnostic documentation tooling with a high-performance Markdown parser in Rust
-- [ubugeeei/start](https://github.com/ubugeeei/start): opinionated defaults and engineering rules for AI-assisted project creation
-- [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue): my personal Vue style guide and engineering preferences
-- [ubugeeei/origin](https://github.com/ubugeeei/origin): an opinionated personal macOS workstation configuration built with Nix, nix-darwin, and Home Manager
-- [ubugeeei-taskgraph](https://github.com/ubugeeei-taskgraph): a task management system with a public vault, shared config, and a PR-based request surface
-- [reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor): a book for reading and understanding the Vue Vapor implementation
-- [fwgsl](https://github.com/ubugeeei/fwgsl): a pure functional language for WebGPU that compiles to WGSL
+- [chibivue](https://github.com/chibivue-land/chibivue): minimal Vue.js impl + step-by-step learning book
+- [Vize](https://github.com/ubugeeei/vize): Vue.js toolchain in Rust (compiler / linter / types / fmt / lsp)
+- [Ox Content](https://github.com/ubugeeei/ox-content): framework-agnostic docs tooling, fast Rust Markdown parser
+- [ubugeeei/start](https://github.com/ubugeeei/start): opinionated defaults for AI-assisted project bootstrap
+- [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue): personal Vue style guide
+- [ubugeeei/origin](https://github.com/ubugeeei/origin): personal macOS config — Nix / nix-darwin / Home Manager
+- [ubugeeei-taskgraph](https://github.com/ubugeeei-taskgraph): task system with public vault + PR-based request surface
+- [reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor): book on reading the Vue Vapor implementation
+- [fwgsl](https://github.com/ubugeeei/fwgsl): pure functional WebGPU language, compiles to WGSL
 
 </td>
 <td valign="top" width="50%">
 
-- [relanote](https://github.com/ubugeeei/relanote): a music programming language based on relative intervals
-- [Vapor Moon](https://github.com/ubugeeei/vapor-moon): a MoonBit-first SFC toolchain with Vue-like authoring and direct DOM / SSR output
-- [Mbt on Rails](https://github.com/ubugeeei/mbt-on-rails): a MoonBit-first, Rails-inspired framework skeleton
-- [corsa-bind](https://github.com/ubugeeei/corsa-bind): Rust and Node bindings plus orchestration layers for typescript-go over stdio
-- [Hand-Writing SVG Generator](https://hand-writing-svg-generator.void.app/): draw left, tune right, export when it feels right
-- [Shadorial](https://ubugeeei.github.io/shadorial/): learn shader programming interactively with 19 hands-on chapters covering GLSL, WebGL2, and Three.js
-- [tnix](https://github.com/ubugeeei/tnix): a gradual type system and tooling stack for Nix that compiles `.tnix` to `.nix`
-- [ush](https://github.com/ubugeeei/ush): an experimental Rust shell that stays POSIX-first and compiles `.ush` to portable `sh`
+- [relanote](https://github.com/ubugeeei/relanote): music language based on relative intervals
+- [Vapor Moon](https://github.com/ubugeeei/vapor-moon): MoonBit-first Vue-like SFC toolchain (DOM / SSR)
+- [Mbt on Rails](https://github.com/ubugeeei/mbt-on-rails): MoonBit-first Rails-inspired framework skeleton
+- [corsa-bind](https://github.com/ubugeeei/corsa-bind): Rust + Node bindings for typescript-go over stdio
+- [Hand-Writing SVG Generator](https://hand-writing-svg-generator.void.app/): draw, tune, export by feel
+- [Shadorial](https://ubugeeei.github.io/shadorial/): 19-chapter interactive shader tutorial (GLSL / WebGL2 / Three.js)
+- [tnix](https://github.com/ubugeeei/tnix): gradual type system for Nix, `.tnix` → `.nix`
+- [ush](https://github.com/ubugeeei/ush): POSIX-first Rust shell, `.ush` → portable `sh`
 
 </td>
 </tr>
