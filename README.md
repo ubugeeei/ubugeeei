@@ -43,7 +43,7 @@
 
 ## TASK SURFACE
 
-Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://github.com/ubugeeei-taskgraph/public-vault)
+Tasks / recent work / PR requests — vault:<br>[taskgraph/public-vault](https://github.com/ubugeeei-taskgraph/public-vault)
 
 </td>
 </tr>
