@@ -89,6 +89,11 @@ Tasks / recent work / PR requests — vault:<br>[taskgraph/public-vault](https:/
 4. [What is Vue.js? It's just a language lol](https://wtrclred.io/en/posts/05)
 5. [Vue.js is not Easy. It is Approachable.](https://wtrclred.io/en/posts/06)
 6. [Signals and Signals. And Retained UI.](https://wtrclred.io/en/posts/12)
+7. [For-Profit Companies Should Pay the People Who Build OSS](https://wtrclred.io/en/posts/21)
+8. [Young People, Make the Internet Messy](https://wtrclred.io/en/posts/20)
+9. [corsa-bind: The Idea of Language Processor Orchestration](https://wtrclred.io/en/posts/17)
+10. [Keep the Discussion as a Graph](https://wtrclred.io/en/posts/15)
+11. [Is React Really UI = f(State)?](https://wtrclred.io/en/posts/09)
 
 <table>
 <tr>
