@@ -55,27 +55,27 @@ Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://gi
 <tr>
 <td valign="top" width="50%">
 
-- [chibivue](https://github.com/chibivue-land/chibivue): minimal Vue.js impl + step-by-step learning book
-- [Vize](https://github.com/ubugeeei/vize): Vue.js toolchain in Rust (compiler / linter / types / fmt / lsp)
-- [Ox Content](https://github.com/ubugeeei/ox-content): framework-agnostic docs tooling, fast Rust Markdown parser
-- [ubugeeei/start](https://github.com/ubugeeei/start): opinionated defaults for AI-assisted project bootstrap
-- [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue): personal Vue style guide
-- [ubugeeei/origin](https://github.com/ubugeeei/origin): personal macOS config — Nix / nix-darwin / Home Manager
-- [ubugeeei-taskgraph](https://github.com/ubugeeei-taskgraph): task system with public vault + PR-based request surface
-- [reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor): book on reading the Vue Vapor implementation
-- [fwgsl](https://github.com/ubugeeei/fwgsl): pure functional WebGPU language, compiles to WGSL
+- [chibivue](https://github.com/chibivue-land/chibivue):<br>minimal Vue.js impl + step-by-step learning book
+- [Vize](https://github.com/ubugeeei/vize):<br>Vue.js toolchain in Rust (compiler / linter / types / fmt / lsp)
+- [Ox Content](https://github.com/ubugeeei/ox-content):<br>framework-agnostic docs tooling, fast Rust Markdown parser
+- [ubugeeei/start](https://github.com/ubugeeei/start):<br>opinionated defaults for AI-assisted project bootstrap
+- [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue):<br>personal Vue style guide
+- [ubugeeei/origin](https://github.com/ubugeeei/origin):<br>personal macOS config — Nix / nix-darwin / Home Manager
+- [ubugeeei-taskgraph](https://github.com/ubugeeei-taskgraph):<br>task system with public vault + PR-based request surface
+- [reading-vuejs-core-vapor](https://github.com/ubugeeei/reading-vuejs-core-vapor):<br>book on reading the Vue Vapor implementation
+- [fwgsl](https://github.com/ubugeeei/fwgsl):<br>pure functional WebGPU language, compiles to WGSL
 
 </td>
 <td valign="top" width="50%">
 
-- [relanote](https://github.com/ubugeeei/relanote): music language based on relative intervals
-- [Vapor Moon](https://github.com/ubugeeei/vapor-moon): MoonBit-first Vue-like SFC toolchain (DOM / SSR)
-- [Mbt on Rails](https://github.com/ubugeeei/mbt-on-rails): MoonBit-first Rails-inspired framework skeleton
-- [corsa-bind](https://github.com/ubugeeei/corsa-bind): Rust + Node bindings for typescript-go over stdio
-- [Hand-Writing SVG Generator](https://hand-writing-svg-generator.void.app/): draw, tune, export by feel
-- [Shadorial](https://ubugeeei.github.io/shadorial/): 19-chapter interactive shader tutorial (GLSL / WebGL2 / Three.js)
-- [tnix](https://github.com/ubugeeei/tnix): gradual type system for Nix, `.tnix` → `.nix`
-- [ush](https://github.com/ubugeeei/ush): POSIX-first Rust shell, `.ush` → portable `sh`
+- [relanote](https://github.com/ubugeeei/relanote):<br>music language based on relative intervals
+- [Vapor Moon](https://github.com/ubugeeei/vapor-moon):<br>MoonBit-first Vue-like SFC toolchain (DOM / SSR)
+- [Mbt on Rails](https://github.com/ubugeeei/mbt-on-rails):<br>MoonBit-first Rails-inspired framework skeleton
+- [corsa-bind](https://github.com/ubugeeei/corsa-bind):<br>Rust + Node bindings for typescript-go over stdio
+- [Hand-Writing SVG Generator](https://hand-writing-svg-generator.void.app/):<br>draw, tune, export by feel
+- [Shadorial](https://ubugeeei.github.io/shadorial/):<br>19-chapter interactive shader tutorial (GLSL / WebGL2 / Three.js)
+- [tnix](https://github.com/ubugeeei/tnix):<br>gradual type system for Nix, `.tnix` → `.nix`
+- [ush](https://github.com/ubugeeei/ush):<br>POSIX-first Rust shell, `.ush` → portable `sh`
 
 </td>
 </tr>
