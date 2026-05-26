@@ -104,7 +104,7 @@ Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://gi
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 ## LINKS
 
@@ -114,7 +114,7 @@ Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://gi
 - sponsor: [sponsors/ubugeeei](https://github.com/sponsors/ubugeeei)
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 ## SPACES
 
@@ -122,7 +122,9 @@ Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://gi
 - blog: [wtrclred.io](https://wtrclred.io)
 
 </td>
-<td valign="top">
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ## CONTRIBUTING TO
 
@@ -131,7 +133,7 @@ Tasks / recent work / PR requests — vault: [taskgraph/public-vault](https://gi
 - [oxc](https://github.com/oxc-project/oxc)
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 ## EX
 
