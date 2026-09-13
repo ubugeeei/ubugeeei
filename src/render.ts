@@ -2,6 +2,7 @@ import {
   blogPosts,
   contributes,
   messages,
+  pastContributes,
   projects,
   type BlogPost,
   type Contribution,
@@ -113,6 +114,7 @@ export function renderProfile(locale: Locale): string {
     ...formatSection("CREATOR OF", projects.flatMap(formatProject)),
     ...formatSection("SELECTED POSTS", blogPosts.flatMap(formatPost)),
     ...formatSection("CONTRIBUTING TO", contributes.flatMap(formatContribution)),
+    ...formatSection("PAST CONTRIBUTIONS", pastContributes.flatMap(formatContribution)),
     ...formatSection(
       "SPACES",
       spaces.flatMap((item) => formatLabeledLink(item.label, item.text, item.url)),

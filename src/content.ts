@@ -197,7 +197,12 @@ export const blogPosts: BlogPost[] = [
 ];
 
 export const contributes: Contribution[] = [
+  { name: "Anthropic", url: "https://github.com/anthropics" },
   { name: "Vite+", url: "https://github.com/voidzero-dev/vite-plus" },
   { name: "vite-task", url: "https://github.com/voidzero-dev/vite-task" },
   { name: "oxc", url: "https://github.com/oxc-project/oxc" },
+];
+
+export const pastContributes: Contribution[] = [
+  { name: "OpenAI", url: "https://github.com/openai" },
 ];

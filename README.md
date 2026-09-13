@@ -121,9 +121,14 @@ Tasks / recent work / PR requests — vault:<br>[taskgraph/public-vault](https:/
 
 ## CONTRIBUTING TO
 
+- [Anthropic](https://github.com/anthropics)
 - [Vite+](https://github.com/voidzero-dev/vite-plus)
 - [vite-task](https://github.com/voidzero-dev/vite-task)
 - [oxc](https://github.com/oxc-project/oxc)
+
+## PAST CONTRIBUTIONS
+
+- [OpenAI](https://github.com/openai)
 
 </td>
 <td valign="top" width="50%">
