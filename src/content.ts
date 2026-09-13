@@ -102,6 +102,11 @@ export const projects: Project[] = [
       "Compiler, linter, typechecker, formatter, story system, and lsp for Vue.js in Rust.",
   },
   {
+    name: "uf",
+    url: "https://github.com/ubugeeei-prod/uf",
+    description: "A unified native toolchain for Flow React apps.",
+  },
+  {
     name: "Ox Content",
     url: "https://github.com/ubugeeei/ox-content",
     description:

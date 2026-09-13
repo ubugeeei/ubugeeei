@@ -57,6 +57,7 @@ Tasks / recent work / PR requests — vault:<br>[taskgraph/public-vault](https:/
 
 - [chibivue](https://github.com/chibivue-land/chibivue):<br>minimal Vue.js impl + step-by-step learning book
 - [Vize](https://github.com/ubugeeei/vize):<br>Vue.js toolchain in Rust (compiler / linter / types / fmt / lsp)
+- [uf](https://github.com/ubugeeei-prod/uf):<br>unified native toolchain for Flow React apps
 - [Ox Content](https://github.com/ubugeeei/ox-content):<br>framework-agnostic docs tooling, fast Rust Markdown parser
 - [ubugeeei/start](https://github.com/ubugeeei/start):<br>opinionated defaults for AI-assisted project bootstrap
 - [ubugeeei/style-guide.vue](https://github.com/ubugeeei/style-guide.vue):<br>personal Vue style guide
